@@ -2,7 +2,6 @@
 import random
 
 generate_random_value = random.randrange(1,51)
-print(generate_random_value)
 
 print("You can only try 5 times : ")
 print("Let's Try..........")
